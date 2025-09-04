@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1757002510 source:c:\tset\loops\loop 5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
